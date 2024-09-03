@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm currently working at Viva as a Data Analyst
-
+### Data Analyst at Viva Armenia
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hayk-alekyan-900797204) 
